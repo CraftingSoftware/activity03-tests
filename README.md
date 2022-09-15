@@ -44,7 +44,7 @@ TODO
 
 TODO
 
-## Referring to page 44 of Python Testing with pytest, write a parameterized test for the `square` function.
+## Referring to page 44 of [Python Testing with pytest](https://drive.google.com/file/d/1FY-JPjZe1BXUdC0ebKvJfsWIdNS0yRUM/view?usp=sharing), write a parameterized test for the `square` function.
 
 TODO
 
@@ -52,6 +52,6 @@ TODO
 
 TODO
 
-## Referring to pages 45 - 47 of Python Testing with pytest, how can we add an identifier for each set of input values?
+## Referring to pages 45 - 47 of [Python Testing with pytest](https://drive.google.com/file/d/1FY-JPjZe1BXUdC0ebKvJfsWIdNS0yRUM/view?usp=sharing), how can we add an identifier for each set of input values?
 
 TODO
